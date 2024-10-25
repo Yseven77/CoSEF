@@ -20,6 +20,7 @@ Before training and testing, you need to download the [dataset](https://drive.go
 
 Before executing the code, you need to download the pre-trained model [esm2_t12_35M_UR50D](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t12_35M_UR50D.pt) , [pubmedbert ](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext)and place them in the `./esm `and `./pubmedbert` directory.
 
+Our dataset can be downloaded from the following link:[dataset](https://drive.google.com/file/d/1iOrrflMwQKRvkVMN4cLewh_XEoEENg3y/view?usp=sharing)
 
 ### ⚡️ Running the Code
 
