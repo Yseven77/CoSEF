@@ -18,7 +18,7 @@ To run the code in this repository, you'll need the following dependencies:
 
 Before training and testing, you need to download the [dataset](https://drive.google.com/file/d/1oKWI-R6XjHYP0Uq6LzoxyBC2UHzDWBxW/view?usp=sharing) and place it in the `./data` directory.
 
-Before executing the code, you need to download the pre-trained model [esm2_t12_35M_UR50D](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t12_35M_UR50D.pt) , [pubmedbert ](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext)and place them in the `./esm `and `./pubmedbert` directory.
+Before executing the code, you need to download the pre-trained model [esm2_t12_35M_UR50D](https://huggingface.co/facebook/esm2_t12_35M_UR50D) , [pubmedbert ](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext)and place them in the `./esm `and `./pubmedbert` directory.
 
 Our dataset can be downloaded from the following link:[dataset](https://drive.google.com/file/d/1iOrrflMwQKRvkVMN4cLewh_XEoEENg3y/view?usp=sharing)
 
